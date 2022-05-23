@@ -39,8 +39,8 @@ $FinalResults = @()
 #Update List as and when new patch released
 $LatestBuild =
 @(
-    @{Version = '2019'; VersionMajor = 15; LatestBuildNo = '15.0.4198.2'; ReleaseDate = '2022-01-27'; UpdateDesc = 'CU15' }
-    @{Version = '2017'; VersionMajor = 14; LatestBuildNo = '14.0.3430.2'; ReleaseDate = '2022-01-13'; UpdateDesc = 'CU28' }
+    @{Version = '2019'; VersionMajor = 15; LatestBuildNo = '15.0.4223.1'; ReleaseDate = '2022-04-18'; UpdateDesc = 'CU16' }
+    @{Version = '2017'; VersionMajor = 14; LatestBuildNo = '14.0.3436.1'; ReleaseDate = '2022-03-30'; UpdateDesc = 'CU29' }
     @{Version = '2016'; VersionMajor = 13; LatestBuildNo = '13.0.6300.2'; ReleaseDate = '2021-09-15'; UpdateDesc = 'SP3' }
     @{Version = '2014'; VersionMajor = 12; LatestBuildNo = '12.0.6433.1'; ReleaseDate = '2021-01-12'; UpdateDesc = 'SP3-CU4' }
     @{Version = '2012'; VersionMajor = 11; LatestBuildNo = '11.0.7507.2'; ReleaseDate = '2021-01-12'; UpdateDesc = 'SP4-GDR' }
