@@ -14,9 +14,7 @@
   Output to console(Default)
   Use Switch -HTMLOutput to open output in Browser(HTML)
 .NOTES
-  Version:        1.0
   Author:         Kannan
-  Creation Date:  27FEB2022
   Purpose/Change: SQL Server Patch Compliance Check
   
 .EXAMPLE
